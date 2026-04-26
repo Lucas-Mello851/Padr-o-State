@@ -2,10 +2,6 @@ package br.com.hamburgueria.concretecomponent;
 
 import br.com.hamburgueria.component.Lanche;
 
-/**
- * ConcreteComponent — Smash Burger base.
- * Pão potato + dois discos smash 80g.
- */
 public class HamburguerSmash implements Lanche {
 
     @Override

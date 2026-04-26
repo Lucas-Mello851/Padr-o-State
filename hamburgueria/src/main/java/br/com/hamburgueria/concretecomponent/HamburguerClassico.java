@@ -2,10 +2,6 @@ package br.com.hamburgueria.concretecomponent;
 
 import br.com.hamburgueria.component.Lanche;
 
-/**
- * ConcreteComponent — Hambúrguer Clássico base.
- * Pão brioche + blend 160g. Sem adicionais.
- */
 public class HamburguerClassico implements Lanche {
 
     @Override

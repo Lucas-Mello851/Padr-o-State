@@ -2,10 +2,6 @@ package br.com.hamburgueria.concretecomponent;
 
 import br.com.hamburgueria.component.Lanche;
 
-/**
- * ConcreteComponent — Hambúrguer Vegano base.
- * Pão integral + blend de grão-de-bico.
- */
 public class HamburguerVegano implements Lanche {
 
     @Override
